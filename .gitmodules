@@ -1,0 +1,3 @@
+[submodule "dota-data"]
+	path = dota-data
+	url = git@github.com:kriskate/dota-data.git
